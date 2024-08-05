@@ -1509,7 +1509,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(/images/xiaofangzibeijing.jpg);
+  background: url(https://pic.imgdb.cn/item/6699510fd9c307b7e926ea90.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4748,7 +4748,7 @@ mjx-assistive-mml {
   }
 }
 [data-theme="dark"] #web_bg {
-  background: url(/images/woshi.jpg);
+  background: url(https://pic.imgdb.cn/item/6697ccdcd9c307b7e989ceaf.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -4756,14 +4756,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: url(/images/xiaofangzibeijing.jpg) !important;
+    background: url(https://pic.imgdb.cn/item/6699510fd9c307b7e926ea90.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: url(/images/woshi.jpg) !important;
+    background: url(https://pic.imgdb.cn/item/6697ccdcd9c307b7e989ceaf.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
